@@ -6,6 +6,7 @@ Our client, Prime Digital Academy: Room 2, has asked for an app to simulate the 
 
 ### Display all Items (Read)
 
+[x]
 The Shelf page (`ShelfPage.js` at `/shelf`) should show all of the items stored in the database in a list or table. **Logged in users should be able to see ALL items on the shelf.**
 
 ### Add Items to the Shelf (Create)
